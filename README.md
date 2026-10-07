@@ -1,3 +1,7 @@
-# Football Fantasy Live Privacy and Support
+# FFL: Football Fantasy Live — privacy and support
 
-Public privacy, support, and download pages for the Football Fantasy Live mobile app. The site is hosted with GitHub Pages; its entry page is [index.html](index.html).
+Privacy policy: https://sandmatter.github.io/bfl-privacy/
+
+Support: https://sandmatter.github.io/bfl-privacy/support.html
+
+Published by Sandmatter LLP on GitHub Pages from main.
